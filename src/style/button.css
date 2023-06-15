@@ -1,0 +1,29 @@
+html {
+    margin: 0;
+    height: 100%;
+    background-color: aliceblue;
+}
+.navBarButton {
+    width: 20%;
+    height: 30px;
+    background-image: linear-gradient(to right, #095779 35%, #00d4ff 100%);
+    color: lightyellow;
+    cursor: pointer;
+    margin-top: 1%;
+}
+.navBarButton:hover {
+    opacity: 70%;
+}
+
+.App-button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: #61dafb;
+    font-size: 24px;
+}
+
+
